@@ -1,3 +1,3 @@
 # Geometry_curves
-C++ 20
-gcc 
+C++ 20  
+gcc 12
